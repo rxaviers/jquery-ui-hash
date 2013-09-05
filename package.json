@@ -1,0 +1,23 @@
+{
+  "name": "jquery-ui-hash",
+  "version": "0.0.1-pre",
+  "description": "Container widget. Manages child-elements appearance",
+  "keywords": [
+    "hash",
+    "jquery",
+    "plugin",
+    "tab",
+    "tabs",
+    "ui",
+    "widget"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rxaviers/jquery-ui-hash"
+  },
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-contrib-jshint": "0.6.x",
+    "matchdep": "*"
+  }
+}

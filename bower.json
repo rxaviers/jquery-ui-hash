@@ -1,0 +1,8 @@
+{
+  "name": "jquery-ui-hash",
+  "version": "0.0.1-pre",
+  "dependencies": {
+    "jquery": "*",
+    "jquery-ui": "*"
+  }
+}
