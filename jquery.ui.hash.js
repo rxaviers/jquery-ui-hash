@@ -1,21 +1,19 @@
 /*
- * jQuery UI Hash @VERSION
+ * jQuery UI Hash
  *
- * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
- * Dual licensed under the MIT or GPL Version 2 licenses.
- * http://jquery.org/license
- *
- * http://docs.jquery.com/UI/Hash (to be created)
+ * Copyright 2011, Rafael Xavier <rxaviers at gmail>
+ * Dual licensed under the MIT license.
+ * http://opensource.org/licenses/MIT
  *
  * Depends:
  *	jquery.ui.core.js
  *	jquery.ui.widget.js
  */
-(function( $, undefined ) {
+(function($, undefined) {
 
 var hashClass = "ui-hash";
 
-$.widget( "ui.hash", {
+$.widget("ui.hash", {
 	version: "@VERSION",
 	widgetEventPrefix: "hash",
 
@@ -52,4 +50,4 @@ $.widget( "ui.hash", {
 	}
 });
 
-})( jQuery );
+})(jQuery);
