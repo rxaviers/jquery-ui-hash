@@ -1,6 +1,6 @@
 {
   "name": "jquery-ui-hash",
-  "version": "0.0.1-pre",
+  "version": "0.0.1",
   "dependencies": {
     "jquery": "*",
     "jquery-ui": "*"
