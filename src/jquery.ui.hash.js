@@ -23,8 +23,6 @@
 	}
 }(function($) {
 
-var hashClass = "ui-hash";
-
 $.widget("ui.hash", {
 	version: "@VERSION",
 	widgetEventPrefix: "hash",
@@ -42,7 +40,7 @@ $.widget("ui.hash", {
 		this.element.html(this.els[key]);
 	},
 
-	clear: function(ev, key) {
+	clear: function() {
 		this.element.children().detach();
 	},
 
